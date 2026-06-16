@@ -1,0 +1,14 @@
+# Security / Credentials
+.env
+
+# Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Execution Scripts
+# (Hiding this because it contains your personal Windows C:\Users\minhy\... file path)
+run_pipeline.bat
